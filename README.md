@@ -6,7 +6,7 @@
   🎎 I'm currently working at Ministerio de Economía, Planificación y Desarrollo as Senior Programmer Technician. <br>
   📫 Email via <a href="mailto:noeldrum17@hotmail.com">noeldrum17@hotmail.com</a> to reach me. <br>
   🌱 I’m currently Working <b> C# with ASP.NET & Angular </b> <br>
-  🌱 I’m currently Learning <b> MEAN Stack and Honing my angular skills  </b> <br>
+  🌱 I’m currently Learning <b> MEAN Stack and Improving my angular skills  </b> <br>
   👯 I am currently working on a very large project for government purposes <b> FullStack projects </b> <br>
   ⚡ Fun fact: I love playing the drums & play mlb the show on ps5
 </div>
