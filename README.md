@@ -8,7 +8,7 @@
   🌱 I’m currently Working <b> C# with ASP.NET & Angular </b> <br>
   🌱 I’m currently Learning <b> MEAN Stack and Honing my angular skills  </b> <br>
   👯 I am currently working on a very large project for government purposes <b> FullStack projects </b> <br>
-  ⚡ Fun fact: Love Chess & solve rubiks cube.
+  ⚡ Fun fact: I love playing the drums & play mlb the show on ps5
 </div>
 
 <hr/>
