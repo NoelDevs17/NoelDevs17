@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web Developer from Dominican Republic 🇩🇴</h3>
 
 <div align="center">
-  🎎 I'm currently working at Ministerio de Economía, Planificación y Desarrollo as Senior Programmer Technician. <br>
+  🎎 I'm currently working at Ministerio de Administración Publica as Senior Programmer Technician. <br>
   📫 Email via <a href="mailto:noeldrum17@hotmail.com">noeldrum17@hotmail.com</a> to reach me. <br>
   🌱 I’m currently Working <b> C# with ASP.NET & Angular </b> <br>
   🌱 I’m currently Learning <b> MEAN Stack and Improving my angular skills  </b> <br>
